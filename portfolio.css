@@ -1,0 +1,41 @@
+header{
+    background-color:rgb(216, 207, 207);
+}
+div{
+    display: flex;
+    margin: 15px;
+}
+
+.rightitems{
+    display: flex;
+    margin-left: 550px;
+    flex-direction: row;
+}
+.nav-link:hover{
+    transform: scale(1.1);
+}
+body{
+    background-color:rgb(216, 207, 207);
+}
+main{
+    background-color:rgb(216, 207, 207);
+}
+img{
+    border-radius: 50%;
+    padding-top: 50px;
+}
+#hello{
+    margin-top: 15%;
+    margin-right: -218%;
+}
+
+#hello1{
+    margin-top: 55%;
+    margin-left: -167%;
+}
+
+.c4{
+    width: 400px;
+    height: 400px;
+    position: absolute;
+}
