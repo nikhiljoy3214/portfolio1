@@ -31,7 +31,7 @@
 .home-content h3 {
     font-size: 100%;
     font-weight: 700;
-    color: #00abf0;
+    color: #015779;
 }
 .home-content p{
     font-size: 100%;
@@ -253,7 +253,18 @@ button {
         height: 1px;
     }
   }
+  @media(max-width:1210px){
+    p,h5{
+        font-size:xx-small;
+    }
+  }
+
 
   #project{
     margin-left: 5%;
   }
+
+  /* RESON FOR DOWN SCROLL BAR */
+  /* div.row.container{
+    padding-left: 18%;
+  } */
