@@ -259,6 +259,13 @@ button {
     }
   }
 
+  @media(max-width:900px){
+    .proavatar{
+        width: 0%;
+        height: 0%;
+    }
+  }
+
 
   #project{
     margin-left: 5%;
