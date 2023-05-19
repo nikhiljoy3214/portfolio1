@@ -266,6 +266,19 @@ button {
     }
   }
 
+  /* @media(max-width:314px){
+    #iocons{
+        padding-top: 55%;
+        
+    }
+  } */
+
+  @media(max-width:314px){
+    .aboutme{
+        font-size:l;
+    }
+  }
+
 
   #project{
     margin-left: 5%;
